@@ -30,5 +30,10 @@
 	
 	<img src="https://placekitten.com/200/310" alt="Some cute kittens" id="right">
 	
+	<a href="<%= request.getRequestURI() %>>"><p>Try again....</p></a>
+	
+	<button id="yeet">Yeet</button>
+	
+	<script type="text/javascript" src="js/script.js"></script>
 </body>
 </html>
